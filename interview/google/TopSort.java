@@ -8,6 +8,8 @@
  *
  */
 public class TopSort{
+  public static List<Character> generateOrder(List<String> input){
 
 
+  }
 }
